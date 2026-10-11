@@ -22,3 +22,8 @@ The development was divided into several stages:
 >Note
 >I am currently stuck at stage 4 as it is proving to be very difficult to adjust to the right PID.
 >I tried making I and D equal 0 and use only P to facilitate me in finding the deadband which I hypothesize is the root cause of inability to balance despite the maths working.
+
+## MATLAB simulation
+Regarding the note I made, I could not get the robot to balance despite continued effort in tuning PID. Therefore, I hypothesised it could be the result of insufficient torque from my 500rpm motors. To test the hypothesis, I simulated the robot in MATLAB, but the results had been unfavourable to my hypothesis - there is theoretically enough torque to support balancing.
+
+The investigation is still in progress.
