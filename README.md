@@ -1,7 +1,7 @@
 # Balancing Robot
 
 ## Introduction
-This is an ongoing personal project started on 02/08/2026. Up to 17/09/2026, the budget was controlled to within £60. The aim of this project was to build a steady balancing robot in the hopes of learning about PID control. 
+This is an ongoing personal project started on 02/08/2026. Up to 17/09/2026, the budget was controlled to within £60. The aim of this project was to build a steady balancing robot and learn about control. PID tuning was unsuccessful, so I moved to LQR.
 
 
 ## Hardware
