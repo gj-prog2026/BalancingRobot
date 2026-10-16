@@ -1,0 +1,33 @@
+motors ENABLED
+r=-1 x=0 v=0 p=-36 f=0 o=0 d=10
+r=-4 x=0 v=0 p=-25 f=0 o=0 d=10
+r=6 x=0 v=-5 p=226 f=0 o=0 d=10
+r=11 x=-1 v=-9 p=295 f=0 o=0 d=10
+r=31 x=-2 v=-21 p=244 f=0 o=0 d=10
+r=29 x=-5 v=-32 p=383 f=0 o=0 d=10
+r=52 x=-8 v=-47 p=999 f=0 o=0 d=10
+r=53 x=-14 v=-58 p=958 f=0 o=0 d=10
+r=52 x=-21 v=-76 p=999 f=0 o=0 d=10
+r=70 x=-29 v=-87 p=999 f=0 o=0 d=10
+r=162 x=-38 v=-89 p=999 f=0 o=0 d=10
+r=520 x=-46 v=-54 p=0 f=0 o=0 d=10
+
+//second (failed immediate;y)
+motors ENABLED
+r=1 x=0 v=0 p=-9 f=0 o=0 d=10
+r=3 x=0 v=0 p=-39 f=0 o=0 d=10
+r=47 x=0 v=-2 p=-69 f=0 o=0 d=10
+r=176 x=0 v=4 p=-99 f=0 o=0 d=10
+r=522 x=0 v=-4 p=0 f=0 o=0 d=10
+
+//third (t6)
+motors ENABLED
+r=0 x=0 v=1 p=-123 f=0 o=0 d=10
+r=23 x=0 v=9 p=-153 f=0 o=0 d=10
+r=151 x=1 v=14 p=-183 f=0 o=0 d=10
+r=423 x=3 v=8 p=0 f=0 o=0 d=10
+r=899 x=2 v=38 p=0 f=0 o=0 d=10
+r=799 x=2 v=-2 p=0 f=0 o=0 d=10
+r=794 x=2 v=0 p=0 f=0 o=0 d=10
+r=795 x=2 v=0 p=0 f=0 o=0 d=10
+r=796 x=2 v=0 p=0 f=0 o=0 d=10
