@@ -8,6 +8,6 @@ This folder constains several subfolder and a file as follows:
 |[tests_LQR](software/tests_LQR)| This contains the test result logs from after I changed the algorithm to LQR|
 |[tests_PID](software/tests_PID)| This contains the readings printed on PuTTY from when I was using the PID algorithm|
 
->Note:
->The firmware in the development_stages subfolder were contributed by Claude as I was new to the language C then.
->However, the testing and debugging was my work, and in the LQR algorithm stage, Claude served only as the reviewer of firmware to facilitate faster protoytping.
+> **Who did what.** The development_stages firmware was written by Claude, as I was new to C.
+> In the LQR stage I wrote and integrated the firmware and ran every hardware test.
+> Claude reviewed the code, helped analyse the logs (for example, finding the IMU lag mismatch) and suggested specific changes, which I implemented and tested.
