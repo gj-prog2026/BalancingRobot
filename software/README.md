@@ -10,4 +10,4 @@ This folder constains several subfolder and a file as follows:
 
 >Note:
 >The firmware in the development_stages subfolder were contributed by Claude as I was new to the language C then.
->However, the testing and debugging was my work, and in the LQR algorithm stage, Claude served only as thee reviewer of firmware to facilitate faster protoytping.
+>However, the testing and debugging was my work, and in the LQR algorithm stage, Claude served only as the reviewer of firmware to facilitate faster protoytping.
