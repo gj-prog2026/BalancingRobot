@@ -20,7 +20,7 @@ Development was staged so each part was verified before the next:
 | 4 | PID balancing attempt | Did not balance |
 | 5 | LQR controller with gains from the MATLAB model | Balances hands-off, best runs 20-40 s; runs vary, tuning continues |
 
-See [software/](software/) for the firmware, test logs and a note on how Claude was used.
+See [software](software/) for the firmware, test logs and a note on how Claude was used.
 
 ## MATLAB simulation
 After PID failed despite continued tuning, I hypothesised the 500 rpm motors didn't have enough torque. I simulated the robot in MATLAB and the results showed there is theoretically enough torque. Later system identification on the real robot agreed: the motors behave close to the model.
